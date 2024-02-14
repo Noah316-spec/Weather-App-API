@@ -1,0 +1,10 @@
+C:\Users\nassnode\source\repos\WetterApp mit API\WetterApp mit API\bin\Debug\WetterApp mit API.exe.config
+C:\Users\nassnode\source\repos\WetterApp mit API\WetterApp mit API\bin\Debug\WetterApp mit API.exe
+C:\Users\nassnode\source\repos\WetterApp mit API\WetterApp mit API\bin\Debug\WetterApp mit API.pdb
+C:\Users\nassnode\source\repos\WetterApp mit API\WetterApp mit API\obj\Debug\WetterApp mit API.csproj.AssemblyReference.cache
+C:\Users\nassnode\source\repos\WetterApp mit API\WetterApp mit API\obj\Debug\WetterApp_mit_API.Form1.resources
+C:\Users\nassnode\source\repos\WetterApp mit API\WetterApp mit API\obj\Debug\WetterApp_mit_API.Properties.Resources.resources
+C:\Users\nassnode\source\repos\WetterApp mit API\WetterApp mit API\obj\Debug\WetterApp mit API.csproj.GenerateResource.cache
+C:\Users\nassnode\source\repos\WetterApp mit API\WetterApp mit API\obj\Debug\WetterApp mit API.csproj.CoreCompileInputs.cache
+C:\Users\nassnode\source\repos\WetterApp mit API\WetterApp mit API\obj\Debug\WetterApp mit API.exe
+C:\Users\nassnode\source\repos\WetterApp mit API\WetterApp mit API\obj\Debug\WetterApp mit API.pdb
