@@ -8,3 +8,31 @@ C:\Users\nassnode\source\repos\WetterApp mit API\WetterApp mit API\obj\Debug\Wet
 C:\Users\nassnode\source\repos\WetterApp mit API\WetterApp mit API\obj\Debug\WetterApp mit API.csproj.CoreCompileInputs.cache
 C:\Users\nassnode\source\repos\WetterApp mit API\WetterApp mit API\obj\Debug\WetterApp mit API.exe
 C:\Users\nassnode\source\repos\WetterApp mit API\WetterApp mit API\obj\Debug\WetterApp mit API.pdb
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\bin\Debug\WetterApp mit API.exe.config
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\bin\Debug\WetterApp mit API.exe
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\bin\Debug\WetterApp mit API.pdb
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\obj\Debug\WetterApp mit API.csproj.AssemblyReference.cache
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\obj\Debug\WetterApp_mit_API.Form1.resources
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\obj\Debug\WetterApp_mit_API.Properties.Resources.resources
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\obj\Debug\WetterApp mit API.csproj.GenerateResource.cache
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\obj\Debug\WetterApp mit API.csproj.CoreCompileInputs.cache
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\obj\Debug\WetterApp mit API.exe
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\obj\Debug\WetterApp mit API.pdb
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\bin\Debug\System.Buffers.dll
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\bin\Debug\System.Memory.dll
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\bin\Debug\System.Buffers.xml
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\bin\Debug\System.Memory.xml
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\noahn\Source\Repos\Noah316-spec\Weather-App-API\WetterApp mit API\WetterApp mit API\obj\Debug\WetterApp mit API.csproj.CopyComplete
