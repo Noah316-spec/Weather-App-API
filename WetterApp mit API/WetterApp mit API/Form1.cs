@@ -60,7 +60,7 @@ namespace WetterApp_mit_API
                 string link = "https://api.openweathermap.org/data/2.5/weather?q=" + textBox1.Text + "&units=metric&appid=" + ApiKey;
                 var json = web.DownloadString(link); // download data in json 
                 Weatherinfo.root Info = JsonConvert.DeserializeObject<Weatherinfo.root>(json); //daten umwandeln damit wir sie lesen können
-                picicon.ImageLocation = "https://openweathermap.org/img/w/" + Info.weather[0].icon + ".png";
+                picicon.ImageLocation = "https://openweathermap.org/img/w/" + Info.weather[0].icon + ".PNG";
                 lblCond.Text = Info.weather[0].main;
                 lbldetails.Text = Info.weather[0].description;
                 lbltemp.Text =  Convert.ToString(Info.main.temp) + " °C";
