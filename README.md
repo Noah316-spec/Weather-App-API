@@ -1,5 +1,3 @@
-# Weather-App-API in C#
-
 # WetterApp_mit_API
 
 Dieses Projekt ist eine einfache Wetteranwendung, die die OpenWeatherMap API verwendet, um aktuelle Wetterinformationen basierend auf dem eingegebenen Standort zu liefern.
