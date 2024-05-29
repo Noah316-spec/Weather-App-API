@@ -22,7 +22,7 @@ namespace WetterApp_mit_API
         {
             InitializeComponent();
         }
-        public string ApiKey = "9809e953ca751c5321e473c36fbcd0de";
+        public string ApiKey = ""; // Api Key
 
         private void textBox1_MouseClick(object sender, MouseEventArgs e)
         {
@@ -49,7 +49,7 @@ namespace WetterApp_mit_API
 
         private void button1_Click(object sender, EventArgs e)
         {
-            getWeather();
+            getWeather(); // Öffnet die funktion get wether
         }
 
         void getWeather()
@@ -60,7 +60,8 @@ namespace WetterApp_mit_API
                 string link = "https://api.openweathermap.org/data/2.5/weather?q=" + textBox1.Text + "&units=metric&appid=" + ApiKey;
                 var json = web.DownloadString(link); // download data in json 
                 Weatherinfo.root Info = JsonConvert.DeserializeObject<Weatherinfo.root>(json); //daten umwandeln damit wir sie lesen können
-                picicon.ImageLocation = "https://openweathermap.org/img/w/" + Info.weather[0].icon + ".PNG";
+                picicon.ImageLocation = "https://openweathermap.org/img/w/" + Info.weather[0].icon + ".PNG"; // bild link öffnen
+                // die Daten in die labels reinschreiben
                 lblCond.Text = Info.weather[0].main;
                 lbldetails.Text = Info.weather[0].description;
                 lbltemp.Text =  Convert.ToString(Info.main.temp) + " °C";
